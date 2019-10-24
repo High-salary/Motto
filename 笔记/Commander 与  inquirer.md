@@ -1,0 +1,7 @@
+```
+npm i commander  inquirer
+
+```
+
+
+
